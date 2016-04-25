@@ -13,6 +13,7 @@
 //a_{4}x_0^{5} =128
 //a_{0}x_0^{1} =0
 
+
 #include <mpi.h>
 #include <stdio.h>
 #include <stdlib.h>
